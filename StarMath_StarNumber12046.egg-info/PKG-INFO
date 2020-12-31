@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: StarMath-StarNumber12046
+Version: 0.0.1
+Summary: A math package
+Home-page: github.com/starnumber12046/StarMath
+Author: StarNumber12046
+Author-email: starnumber12046.vivaldi.net
+License: UNKNOWN
+Description: # StarMath
+        ## Installing
+        to install the package do *pip install starmath*
+        ## How to use this package**
+        ### Examples
+        #### Factorial N
+        ``` py
+        import starmath
+        starmath.factorial(4) #number must be an int
+        ```
+        
+        #### Addition
+        ``` py
+        import starmath
+        starmath.addition(4, 5) # you need two int
+        ```
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

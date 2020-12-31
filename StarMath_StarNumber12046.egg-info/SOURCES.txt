@@ -1,0 +1,7 @@
+README.md
+setup.py
+StarMath/__init__.py
+StarMath_StarNumber12046.egg-info/PKG-INFO
+StarMath_StarNumber12046.egg-info/SOURCES.txt
+StarMath_StarNumber12046.egg-info/dependency_links.txt
+StarMath_StarNumber12046.egg-info/top_level.txt
