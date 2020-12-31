@@ -1,6 +1,6 @@
 # StarMath
 ## Installing
-to install the package do *pip install starmath*
+to install the package do *pip install https://github.com/StarNumber12046/StarMath*
 ## How to use this package**
 ### Examples
 #### Factorial N
